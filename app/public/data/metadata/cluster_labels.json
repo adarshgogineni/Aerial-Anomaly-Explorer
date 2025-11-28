@@ -1,0 +1,36 @@
+{
+  "labels": {
+    "6": "orb_sphere",
+    "14": "military_aircraft",
+    "11": "fireball_meteor",
+    "9": "silent_movement",
+    "13": "color_changing",
+    "1": "triangular_craft",
+    "0": "bright_lights",
+    "7": "flashing_lights",
+    "5": "disk_saucer",
+    "3": "hovering_lights",
+    "10": "formation_pattern",
+    "8": "cigar_cylinder",
+    "2": "fast_moving_objects",
+    "12": "low_altitude",
+    "4": "multiple_objects"
+  },
+  "counts": {
+    "0": 5762,
+    "1": 5782,
+    "2": 6163,
+    "3": 3332,
+    "4": 6445,
+    "5": 6041,
+    "6": 7631,
+    "7": 7335,
+    "8": 7843,
+    "9": 5278,
+    "10": 3535,
+    "11": 5799,
+    "12": 5711,
+    "13": 3826,
+    "14": 4126
+  }
+}

@@ -65,11 +65,13 @@ ml/data/raw/*.parquet
 ml/data/processed/*.csv
 ml/data/processed/*.json
 ml/data/processed/*.parquet
+ml/data/processed/*.npy
 ml/models/
 *.pkl
 *.pickle
 *.h5
 *.hdf5
+*.npy
 
 # IDE
 .vscode/
@@ -85,3 +87,7 @@ Thumbs.db
 # Large data files
 *.tar.gz
 *.zip
+
+# Generated frontend data (tiles are too large, can be regenerated)
+app/public/data/tiles/
+# Keep metadata files - they're small and useful for reference

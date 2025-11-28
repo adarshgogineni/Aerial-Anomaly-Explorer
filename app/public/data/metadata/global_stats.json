@@ -1,0 +1,68 @@
+{
+  "total_sightings": 87458,
+  "total_tiles": 2387,
+  "date_range": {
+    "min_year": 1906,
+    "max_year": 2014,
+    "min_date": "1906-11-11T00:00:00",
+    "max_date": "2014-05-08T18:45:00"
+  },
+  "geographic": {
+    "countries": 6,
+    "grid_cells": 2387,
+    "lat_range": [
+      -82.862752,
+      72.7
+    ],
+    "lon_range": [
+      -173.985008,
+      178.4419
+    ]
+  },
+  "shapes": {
+    "light": 17741,
+    "unknown": 8879,
+    "triangle": 8418,
+    "circle": 8343,
+    "fireball": 6509,
+    "other": 6164,
+    "disk": 5879,
+    "sphere": 5698,
+    "oval": 4062,
+    "formation": 2637
+  },
+  "countries": {
+    "US": 69496,
+    "": 12042,
+    "CA": 3228,
+    "GB": 2001,
+    "AU": 583,
+    "DE": 108
+  },
+  "clusters": {
+    "total_clusters": 15,
+    "distribution": {
+      "bright_lights": 5762,
+      "cigar_cylinder": 7843,
+      "color_changing": 3826,
+      "disk_saucer": 6041,
+      "fast_moving_objects": 6163,
+      "fireball_meteor": 5799,
+      "flashing_lights": 7335,
+      "formation_pattern": 3535,
+      "hovering_lights": 3332,
+      "low_altitude": 5711,
+      "military_aircraft": 4126,
+      "multiple_objects": 6445,
+      "orb_sphere": 7631,
+      "silent_movement": 5278,
+      "triangular_craft": 5782
+    }
+  },
+  "anomalies": {
+    "mean_score": 0.4353045129501424,
+    "median_score": 0.42843955239385445,
+    "high_anomaly_count": 8746
+  },
+  "exported_at": "2025-11-28T13:02:40.366738"
+}
