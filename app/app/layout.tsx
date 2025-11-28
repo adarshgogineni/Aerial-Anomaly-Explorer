@@ -12,9 +12,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body>
-        <header className="bg-gray-900 text-white p-4 border-b border-gray-700">
+    <html lang="en" className="h-full">
+      <body className="h-full flex flex-col">
+        <header className="bg-gray-900 text-white p-4 border-b border-gray-700 flex-shrink-0">
           <div className="container mx-auto">
             <h1 className="text-2xl font-bold">UAP Explorer</h1>
           </div>
